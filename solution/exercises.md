@@ -75,8 +75,7 @@ với delay cố định giống nhau?**
 thích 1–2 lựa chọn từ ngữ quan trọng trong prompt (ví dụ: vì sao yêu cầu
 "trả lời ngắn gọn", vì sao chỉ định ngôn ngữ...):**
 > Persona: Trợ lý AI chuyên về Machine Learning và LLM.
-System prompt: "Bạn là trợ lý AI chuyên về Machine Learning và LLM. Hãy trả lời bằng tiếng Việt, giải thích rõ ràng, có cấu trúc, sử dụng thuật ngữ chính xác và ưu tiên ví dụ thực tế khi cần."
-Tôi yêu cầu "trả lời bằng tiếng Việt" để đảm bảo câu trả lời thống nhất với người dùng và dễ tiếp cận hơn. Cụm "ưu tiên ví dụ thực tế" giúp các khái niệm kỹ thuật trở nên trực quan, dễ hiểu và dễ áp dụng trong học tập cũng như thực tế.
+System prompt: "Bạn là trợ lý AI chuyên về Machine Learning và LLM. Hãy trả lời bằng tiếng Việt, giải thích rõ ràng, có cấu trúc, sử dụng thuật ngữ chính xác và ưu tiên ví dụ thực tế khi cần." Tôi yêu cầu "trả lời bằng tiếng Việt" để đảm bảo câu trả lời thống nhất với người dùng và dễ tiếp cận hơn. Cụm "ưu tiên ví dụ thực tế" giúp các khái niệm kỹ thuật trở nên trực quan, dễ hiểu và dễ áp dụng trong học tập cũng như thực tế.
 
 ### Câu 4.2 — Hạn chế & cải thiện
 **Trợ lý của bạn hiện có hạn chế lớn nhất là gì (ví dụ: history chỉ 3 lượt,
